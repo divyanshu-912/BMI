@@ -1,0 +1,79 @@
+body {   
+background-repeat:norepeat;
+  font-weight: bold;
+  font-family:  monospace   ;
+
+background-color: black;
+ color: magenta;
+} 
+/*
+ @-webkit-keyframes animation_name {
+   from {
+    border: dashed  4px #ff0ff0;
+   } 
+   to {
+    border: dotted  4px white;
+   } 
+  } 
+*/
+  
+  
+  @keyframes animation_name {
+   from {
+    border: dashed 4px white;
+   }
+   to {
+    border: dotted  4px white;
+    
+   }
+  } 
+button { background-color: white;
+Font-size:18px;
+Font-weight:bold ;
+text-align: center ;
+margin-bottom: 20px;
+margin-top: 10px;
+height: 30px;
+
+}
+button:hover{
+background-color: grey;
+}
+
+
+
+#Equal {
+text-align: center ;
+background-color: black;
+height: 30px;
+}
+input{ margin-top: 10px;
+background-color: white;
+text-align: center ;
+height: 25px;
+color: red;
+font-family: monospace ;
+font-size : 20px;
+font-weight: bold ;
+}
+input:focus{
+background-color: blue;
+}
+
+h1 { font-family: fantasy ;
+ border: dashed 4px white;
+ border-radius: 40px;
+ background-color: black;
+color: white;
+text-shadow:8px 2px 5px #521b1b ;
+width: 300px;
+animation: animation_name 0.21s infinite ;
+
+} /*
+body:active {
+ background-color: red ;
+} */
+#color {
+background-color: red;
+
+}
