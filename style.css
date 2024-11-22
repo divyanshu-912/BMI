@@ -18,7 +18,7 @@ background-color: black;
 */
   
   
-  @keyframes animation_name {
+/*  @keyframes animation_name {
    from {
     border: dashed 4px white;
    }
@@ -26,7 +26,7 @@ background-color: black;
     border: dotted  4px white;
     
    }
-  } 
+  } */
 button { background-color: white;
 Font-size:18px;
 Font-weight:bold ;
