@@ -15,9 +15,9 @@ function result() {
   alert("Khaya-piya kro thoda = You are Malnutrite ")
  } else if (ashuk >= 25) {
   alert(
-   "Kha kha ke mote ho gaye ho.You are Overweight"
+   "Kha kha ke mote ho gaye ho. You are Overweight."
   )
- } else if (ashuk >= 0) {
+ } else if (ashuk >= 18.5 && ashuk<=25) {
   alert("Your are Healthy")
  } else {
   alert("Enter data")
