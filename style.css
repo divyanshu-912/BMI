@@ -61,11 +61,11 @@ background-color: blue;
 }
 
 h1 { font-family: fantasy ;
- border: dashed 4px white;
- border-radius: 40px;
+ border: solid 2px white;
+ border-radius: 20px;
  background-color: black;
 color: white;
-text-shadow:8px 2px 5px #521b1b ;
+
 width: 300px;
 animation: animation_name 0.21s infinite ;
 
