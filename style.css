@@ -62,10 +62,10 @@ background-color: blue;
 
 #head { font-family: fantasy ;
  border: solid 2px white;
- border-radius: 20px;
+ border-radius: 10px;
  background-color: black;
 color: white;
-
+ font-weight:lighter;
 width: 300px;
 animation: animation_name 0.21s infinite ;
 
