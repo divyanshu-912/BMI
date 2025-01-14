@@ -60,7 +60,7 @@ input:focus{
 background-color: blue;
 }
 
-h1 { font-family: fantasy ;
+#head { font-family: fantasy ;
  border: solid 2px white;
  border-radius: 20px;
  background-color: black;
